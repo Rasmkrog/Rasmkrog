@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rasmus Krog Hovgård
+# Hi 👋, I'm Rasmus
 
 ### A passionate developer studying Software at AAU
 
