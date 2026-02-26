@@ -2,7 +2,7 @@
 
 ### A passionate developer studying Software at AAU
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasmkrog&label=Profile views&color=0e75b6&style=flat" alt="Rasmkrog" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasmkrog&label=Profile" alt="Rasmkrog" /> </p>
 
 - 🌱 I'm currently learning **Typescript,**
 
