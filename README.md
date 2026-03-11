@@ -10,18 +10,13 @@
 
 - 👨‍💻 All of my projects are available at **[https://rasmkrog.github.io/](https://rasmkrog.github.io/)**
 
-#### Connect with me
+---<br><br>
 
-<div align="left">
-    <a href="https://github.com/Rasmkrog" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rasmkrog" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/Kr0gZ" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kr0gZ" height="30" width="40" />
-    </a>
-</div>
-
-#### Languages and Tools
+![Rasmkrog's Stats](https://github-readme-stats.vercel.app/api?username=Rasmkrog&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
+![Rasmkrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=gruvbox&hide_border=true)
+![Rasmkrog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasmkrog&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+---<br><br>
+#### Tech Stack
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
@@ -41,3 +36,14 @@
 <!-- <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasmkrog&show_icons=true&locale=en&layout=compact" alt="Rasmkrog" /></div>
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasmkrog&show_icons=true&locale=en" alt="Rasmkrog" /></div> -->
+---<br><br>
+#### Connect with me
+
+<div align="left">
+    <a href="https://github.com/Rasmkrog" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rasmkrog" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/Kr0gZ" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kr0gZ" height="30" width="40" />
+    </a>
+</div>
