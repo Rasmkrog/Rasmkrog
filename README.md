@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>-->
     <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
 </div>
