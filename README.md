@@ -24,7 +24,7 @@
 #### Languages and Tools
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
+    <!--<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>-->
     <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
