@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://rasmkrog.github.io/](https://rasmkrog.github.io/)**
 
----<br><br>
+_____
 
 ![Rasmkrog's Stats](https://github-readme-stats.vercel.app/api?username=Rasmkrog&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
 ![Rasmkrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=gruvbox&hide_border=true)
