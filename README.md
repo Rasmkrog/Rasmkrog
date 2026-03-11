@@ -28,9 +28,9 @@
     <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
