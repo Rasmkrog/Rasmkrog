@@ -42,10 +42,10 @@
 
 <div align="center">
     <a href="https://github.com/Rasmkrog" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rasmkrog" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rasmkrog" height="40" width="40" />
     </a>
     <a href="https://leetcode.com/Kr0gZ" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kr0gZ" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kr0gZ" height="40" width="40" />
     </a>
 </div>
 
@@ -54,8 +54,8 @@
 <div align="center">
 <a href="https://github.com/Rasmkrog">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasmkrog&theme=gruvbox" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasmkrog&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasmkrog&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasmkrog&theme=gruvbox" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasmkrog&theme=gruvbox" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasmkrog&theme=gruvbox" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasmkrog&theme=gruvbox" height="180em" />
 </div>
