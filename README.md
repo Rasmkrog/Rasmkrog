@@ -39,8 +39,6 @@
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasmkrog&show_icons=true&locale=en" alt="Rasmkrog" /></div> -->
 
----
-
 #### Connect with me
 
 <div align="left">
