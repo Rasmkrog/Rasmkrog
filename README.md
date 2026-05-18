@@ -12,13 +12,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Rasmkrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark&border-none)
-
+<p align="center">
+  <a href="https://github.com/Rasmkrog">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark&hide_border=true" alt="Rasmkrog's Streak" />
+  </a>
+</p>
 <!-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark" alt="Rasmkrog" /></p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### Tech Stack
+### Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
@@ -35,7 +38,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### Connect with me
+### Connect with me
 
 <div align="center">
     <a href="https://github.com/Rasmkrog" target="blank">
