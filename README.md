@@ -12,9 +12,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Rasmkrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark)
+![Rasmkrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark&border-none)
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark" alt="Rasmkrog" /></p>
+<!-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark" alt="Rasmkrog" /></p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
