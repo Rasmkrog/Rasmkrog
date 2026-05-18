@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Rasmkrog">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=gruvbox&hide_border=true" alt="Rasmkrog's Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=tokyonight&hide_border=true" alt="Rasmkrog's Streak" />
   </a>
 </p>
 <!-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark" alt="Rasmkrog" /></p> -->
@@ -53,11 +53,11 @@
 
 <div align="center">
 <a href="https://github.com/Rasmkrog">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasmkrog&theme=gruvbox" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasmkrog&theme=gruvbox" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasmkrog&theme=gruvbox" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasmkrog&theme=gruvbox" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasmkrog&theme=gruvbox" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasmkrog&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasmkrog&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasmkrog&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasmkrog&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasmkrog&theme=tokyonight" height="180em" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
