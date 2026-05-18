@@ -34,14 +34,11 @@
     <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>-->
     <!--<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>-->
 </div>
-
-<!-- <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasmkrog&show_icons=true&locale=en&layout=compact" alt="Rasmkrog" /></div>
-
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasmkrog&show_icons=true&locale=en" alt="Rasmkrog" /></div> -->
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=" alt="Rasmkrog" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasmkrog&show_icons=true&locale=en&layout=compact" alt="Rasmkrog" /></div>
+
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasmkrog&show_icons=true&locale=en" alt="Rasmkrog" /></div>
 
 #### Connect with me
 
@@ -53,6 +50,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kr0gZ" height="30" width="40" />
     </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <div align="center">
 <a href="https://github.com/Rasmkrog">
