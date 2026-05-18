@@ -11,8 +11,8 @@
 - 👨‍💻 All of my projects are available at **[https://rasmkrog.github.io/](https://rasmkrog.github.io/)**
 
 - 📫 How to reach me **<rasmkrog@gmail.com>**
-
-<h1></h1>
+      <!-- Using h1 tags to get small line  -->
+      <h1></h1>
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/Rasmkrog">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
----
+<h1></h1>
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </div>
 
----
+<h1></h1>
 
 <h3 align="center">Connect with me: </h3>
 
