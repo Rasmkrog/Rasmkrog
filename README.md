@@ -12,7 +12,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Rasmkrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=gruvbox&hide_border=true)
+![Rasmkrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark)
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=dark" alt="Rasmkrog" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -30,7 +32,6 @@
     <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </div>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmkrog&theme=default" alt="Rasmkrog" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -50,7 +51,7 @@
 <div align="center">
 <a href="https://github.com/Rasmkrog">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasmkrog&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasmkrog&theme=darrk" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasmkrog&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasmkrog&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasmkrog&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasmkrog&theme=dark" height="180em" />
